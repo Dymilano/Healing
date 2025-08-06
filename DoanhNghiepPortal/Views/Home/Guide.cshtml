@@ -1,1 +1,75 @@
- 
+﻿@{
+    ViewData["Title"] = "Hướng Dẫn";
+}
+
+<section class="container py-5">
+    <h1 class="mb-4 text-center">Hướng Dẫn Đăng Ký Kinh Doanh</h1>
+
+    <div class="mb-5">
+        <h2>I. Đăng Ký Doanh Nghiệp</h2>
+
+        <h4>Bước 1: Chuẩn bị hồ sơ</h4>
+        <ul>
+            <li>Giấy đề nghị đăng ký doanh nghiệp.</li>
+            <li>Điều lệ công ty.</li>
+            <li>Danh sách thành viên/cổ đông sáng lập.</li>
+            <li>CMND/CCCD/Hộ chiếu (scan) của người đại diện pháp luật và các thành viên/cổ đông.</li>
+        </ul>
+
+        <h4>Bước 2: Tạo tài khoản và đăng nhập</h4>
+        <p>Truy cập trang <a href="/Account/Register">Đăng ký tài khoản</a>, sau đó xác thực email và đăng nhập.</p>
+
+        <h4>Bước 3: Chọn hình thức đăng ký</h4>
+        <p>Chọn mục <strong>Đăng ký Doanh nghiệp</strong> và loại hình doanh nghiệp phù hợp.</p>
+
+        <h4>Bước 4: Điền thông tin đăng ký</h4>
+        <p>Nhập thông tin doanh nghiệp và đính kèm tài liệu.</p>
+
+        <h4>Bước 5: Nộp hồ sơ</h4>
+        <p>Kiểm tra lại toàn bộ nội dung, sau đó nhấn <strong>Gửi hồ sơ</strong>.</p>
+
+        <h4>Bước 6: Theo dõi và nhận kết quả</h4>
+        <p>Theo dõi tại mục <strong>Quản lý hồ sơ</strong>. Kết quả được gửi qua email hoặc tải trực tiếp.</p>
+    </div>
+
+    <div class="mb-5">
+        <h2>II. Đăng Ký Kinh Doanh Cá Nhân</h2>
+
+        <h4>Bước 1: Chuẩn bị hồ sơ</h4>
+        <ul>
+            <li>Giấy đề nghị đăng ký hộ kinh doanh.</li>
+            <li>CMND/CCCD của chủ hộ kinh doanh.</li>
+            <li>Hợp đồng thuê/mượn địa điểm (nếu có).</li>
+        </ul>
+
+        <h4>Bước 2: Đăng nhập tài khoản</h4>
+        <p>Dùng tài khoản đã đăng ký để đăng nhập vào hệ thống.</p>
+
+        <h4>Bước 3: Vào mục “Đăng ký Kinh doanh cá nhân”</h4>
+        <p>Truy cập <a href="/CaNhan/Register">Đăng ký Kinh doanh Cá nhân</a>.</p>
+
+        <h4>Bước 4: Điền thông tin</h4>
+        <p>Nhập thông tin cơ bản, ngành nghề, địa chỉ và đính kèm tài liệu.</p>
+
+        <h4>Bước 5: Gửi hồ sơ</h4>
+        <p>Kiểm tra kỹ nội dung và nhấn <strong>Gửi hồ sơ</strong>.</p>
+
+        <h4>Bước 6: Theo dõi kết quả</h4>
+        <p>Xem tình trạng xét duyệt tại mục “Hồ sơ của tôi”.</p>
+    </div>
+
+    <div class="alert alert-info">
+        <strong>Lưu ý:</strong>
+        <ul>
+            <li>Tài liệu tải lên cần là file PDF, dung lượng không quá 10MB.</li>
+            <li>Thông tin kê khai phải chính xác, đầy đủ.</li>
+            <li>Mọi thắc mắc vui lòng liên hệ: <strong>hotro@dangkydoanhnghiep.vn</strong> hoặc hotline: <strong>1900.1234.56</strong>.</li>
+        </ul>
+    </div>
+
+    <div class="text-center mt-5">
+        <p class="mb-3"><strong>Bạn đã đọc xong hướng dẫn? Hãy bắt đầu đăng ký ngay:</strong></p>
+        <a href="/DoanhNghiep/Register" class="btn btn-primary mx-2">🏢 Đăng ký Doanh nghiệp</a>
+        <a href="/CaNhan/Register" class="btn btn-success mx-2">👤 Đăng ký Cá nhân</a>
+    </div>
+</section>
