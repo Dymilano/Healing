@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DoanhNghiepPortal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2a2fa82f75b2800f8d6e8e59bb7608d8c1fa23f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DoanhNghiepPortal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DoanhNghiepPortal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

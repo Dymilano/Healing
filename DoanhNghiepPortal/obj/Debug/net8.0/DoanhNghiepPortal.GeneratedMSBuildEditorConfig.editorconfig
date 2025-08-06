@@ -17,61 +17,85 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DoanhNghiepPortal
 build_property.RootNamespace = DoanhNghiepPortal
-build_property.ProjectDir = D:\DoanhNghiep\DoanhNghiepPortal\
+build_property.ProjectDir = C:\Users\ADMIN\Desktop\new ctt\Healing\DoanhNghiepPortal\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\DoanhNghiep\DoanhNghiepPortal
+build_property.MSBuildProjectDirectory = C:\Users\ADMIN\Desktop\new ctt\Healing\DoanhNghiepPortal
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/DoanhNghiep/DoanhNghiepPortal/Views/Home/About.cshtml]
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoanhNghiep/DoanhNghiepPortal/Views/Home/Guide.cshtml]
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/Home/AgencyOffices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZ2VuY3lPZmZpY2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/Home/Guide.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHdWlkZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoanhNghiep/DoanhNghiepPortal/Views/Home/Index.cshtml]
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoanhNghiep/DoanhNghiepPortal/Views/Home/Privacy.cshtml]
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/Home/InfoCenter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmZvQ2VudGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/Home/NationalPortal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOYXRpb25hbFBvcnRhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoanhNghiep/DoanhNghiepPortal/Views/Services/DangKyDoanhNghiep.cshtml]
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/Home/PrivateEnterprise.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YXRlRW50ZXJwcmlzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/Home/Reform.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/Home/Vision.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaXNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/Services/DangKyDoanhNghiep.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcRGFuZ0t5RG9hbmhOZ2hpZXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoanhNghiep/DoanhNghiepPortal/Views/Services/DangKyKinhDoanh.cshtml]
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/Services/DangKyKinhDoanh.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcRGFuZ0t5S2luaERvYW5oLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoanhNghiep/DoanhNghiepPortal/Views/Services/Success.cshtml]
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/Services/Success.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcU3VjY2Vzcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoanhNghiep/DoanhNghiepPortal/Views/Shared/Error.cshtml]
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoanhNghiep/DoanhNghiepPortal/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoanhNghiep/DoanhNghiepPortal/Views/_ViewImports.cshtml]
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoanhNghiep/DoanhNghiepPortal/Views/_ViewStart.cshtml]
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/DoanhNghiep/DoanhNghiepPortal/Views/Shared/_Layout.cshtml]
+[C:/Users/ADMIN/Desktop/new ctt/Healing/DoanhNghiepPortal/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xspgus6nuf

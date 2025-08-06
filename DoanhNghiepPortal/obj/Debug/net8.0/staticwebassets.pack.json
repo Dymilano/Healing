@@ -1,0 +1,481 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DoanhNghiepPortal.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoanhNghiepPortal.gn70g9uy0u.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\css\\animated.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animated.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\css\\templatemo-space-dynamic.css",
+      "PackagePath": "staticwebassets\\assets\\css\\templatemo-space-dynamic.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\images\\about-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\images\\about-left-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\about-left-image.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\images\\baner-dec-left.png",
+      "PackagePath": "staticwebassets\\assets\\images\\baner-dec-left.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\images\\baner-dec-right.png",
+      "PackagePath": "staticwebassets\\assets\\images\\baner-dec-right.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\images\\banner-right-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner-right-image.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\images\\big-blog-thumb.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\big-blog-thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\images\\blog-dec.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-dec.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\images\\blog-thumb-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog-thumb-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\images\\contact-bg.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\images\\contact-decoration.png",
+      "PackagePath": "staticwebassets\\assets\\images\\contact-decoration.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\images\\portfolio-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\portfolio-image.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\images\\service-icon-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-icon-01.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\images\\service-icon-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-icon-02.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\images\\service-icon-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-icon-03.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\images\\service-icon-04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\service-icon-04.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\images\\services-left-image.png",
+      "PackagePath": "staticwebassets\\assets\\images\\services-left-image.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\js\\animation.js",
+      "PackagePath": "staticwebassets\\assets\\js\\animation.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\js\\imagesloaded.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imagesloaded.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\assets\\js\\templatemo-custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\templatemo-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\wwwroot\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DoanhNghiepPortal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DoanhNghiepPortal.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DoanhNghiepPortal.props",
+      "PackagePath": "build\\DoanhNghiepPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DoanhNghiepPortal.props",
+      "PackagePath": "buildMultiTargeting\\DoanhNghiepPortal.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DoanhNghiepPortal.props",
+      "PackagePath": "buildTransitive\\DoanhNghiepPortal.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
