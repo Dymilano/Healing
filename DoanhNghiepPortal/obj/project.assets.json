@@ -4721,32 +4721,48 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Duy\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+>>>>>>> 267233ab053af57fd85a350c3bda4baaf7e753fa
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\CongDangKyDoanhNghiep\\Healing\\DoanhNghiepPortal\\DoanhNghiepPortal.csproj",
       "projectName": "DoanhNghiepPortal",
       "projectPath": "D:\\CongDangKyDoanhNghiep\\Healing\\DoanhNghiepPortal\\DoanhNghiepPortal.csproj",
       "packagesPath": "C:\\Users\\Duy\\.nuget\\packages\\",
       "outputPath": "D:\\CongDangKyDoanhNghiep\\Healing\\DoanhNghiepPortal\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\DoanhNghiepPortal.csproj",
+      "projectName": "DoanhNghiepPortal",
+      "projectPath": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\DoanhNghiepPortal.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ADMIN\\Desktop\\new ctt\\Healing\\DoanhNghiepPortal\\obj\\",
+>>>>>>> 267233ab053af57fd85a350c3bda4baaf7e753fa
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\Duy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 267233ab053af57fd85a350c3bda4baaf7e753fa
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+<<<<<<< HEAD
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
+=======
+>>>>>>> 267233ab053af57fd85a350c3bda4baaf7e753fa
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4763,8 +4779,14 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
+<<<<<<< HEAD
         "auditMode": "direct"
       }
+=======
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
+>>>>>>> 267233ab053af57fd85a350c3bda4baaf7e753fa
     },
     "frameworks": {
       "net8.0": {
@@ -4792,6 +4814,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.11, 8.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -4800,7 +4840,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 267233ab053af57fd85a350c3bda4baaf7e753fa
       }
     }
   }

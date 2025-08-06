@@ -35,6 +35,42 @@ public class HomeController : Controller
         return View();
     }
 
+    public IActionResult AgencyOffices()
+    {
+        ViewData["Title"] = "Cơ quan Đăng ký kinh doanh các tỉnh, thành phố";
+        return View();
+    }
+
+    public IActionResult NationalPortal()
+    {
+        ViewData["Title"] = "Cổng thông tin quốc gia về đăng ký doanh nghiệp";
+        return View();
+    }
+
+    public IActionResult PrivateEnterprise()
+    {
+        ViewData["Title"] = "Cục Phát triển doanh nghiệp tư nhân và kinh tập thể";
+        return View();
+    }
+
+    public IActionResult InfoCenter()
+    {
+        ViewData["Title"] = "Trung tâm Hỗ trợ đăng ký kinh doanh";
+        return View();
+    }
+
+    public IActionResult Vision()
+    {
+        ViewData["Title"] = "Tầm nhìn - Sứ mệnh - Giá trị";
+        return View();
+    }
+
+    public IActionResult Reform()
+    {
+        ViewData["Title"] = "Cải cách đăng ký kinh doanh";
+        return View();
+    }
+
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
