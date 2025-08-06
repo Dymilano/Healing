@@ -1,0 +1,32 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# ASP.NET Core static files
+wwwroot/lib/
+wwwroot/node_modules/
+
+# Log files
+*.log
+
+# Environment files
+.env
+
+# Publish output
+*.publish/
+
+# Others
+*.db
+*.sqlite
+*.pdb
+*.tmp
