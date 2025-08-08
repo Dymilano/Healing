@@ -1,0 +1,109 @@
+@{
+    ViewData["Title"] = "Test Database Connection";
+}
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-12">
+            <h2 class="text-center mb-4">Test Database Connection</h2>
+            
+            @if (ViewBag.Error != null)
+            {
+                <div class="alert alert-danger">
+                    <h4>Lỗi:</h4>
+                    <p>@ViewBag.Error</p>
+                    <details>
+                        <summary>Chi tiết lỗi</summary>
+                        <pre>@ViewBag.StackTrace</pre>
+                    </details>
+                </div>
+            }
+            else
+            {
+                <div class="alert alert-success">
+                    <h4>Kết nối thành công!</h4>
+                    <p>Tổng số bản ghi: @ViewBag.TotalRecords</p>
+                </div>
+            }
+
+            <div class="card">
+                <div class="card-header">
+                    <h5>Dữ liệu từ Database</h5>
+                </div>
+                <div class="card-body">
+                    @if (ViewBag.Data != null && ViewBag.Data.Count > 0)
+                    {
+                        <div class="table-responsive">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>ID</th>
+                                        <th>STT</th>
+                                        <th>Tỉnh/Thành phố</th>
+                                        <th>Tên phòng</th>
+                                        <th>Địa chỉ</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in ViewBag.Data)
+                                    {
+                                        <tr>
+                                            <td>@item.Id</td>
+                                            <td>@item.STT</td>
+                                            <td>@item.ProvinceCity</td>
+                                            <td>@item.DepartmentName</td>
+                                            <td>@item.Address</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                            </table>
+                        </div>
+                    }
+                    else
+                    {
+                        <p class="text-muted">Không có dữ liệu để hiển thị.</p>
+                    }
+                </div>
+            </div>
+
+            <div class="mt-3">
+                <button id="testConnection" class="btn btn-primary">Test Connection</button>
+                <a href="/BusinessRegistration" class="btn btn-secondary">Đi đến Business Registration</a>
+            </div>
+
+            <div id="testResult" class="mt-3"></div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function() {
+            $('#testConnection').click(function() {
+                $.get('/Test/TestConnection', function(data) {
+                    let resultHtml = '';
+                    if (data.success) {
+                        resultHtml = `
+                            <div class="alert alert-success">
+                                <h5>✅ ${data.message}</h5>
+                                <p>Số bản ghi: ${data.totalRecords}</p>
+                                ${data.firstRecord ? `<p>Bản ghi đầu tiên: ${data.firstRecord.provinceCity}</p>` : ''}
+                            </div>
+                        `;
+                    } else {
+                        resultHtml = `
+                            <div class="alert alert-danger">
+                                <h5>❌ ${data.message}</h5>
+                                <details>
+                                    <summary>Chi tiết lỗi</summary>
+                                    <pre>${data.error}</pre>
+                                </details>
+                            </div>
+                        `;
+                    }
+                    $('#testResult').html(resultHtml);
+                });
+            });
+        });
+    </script>
+}

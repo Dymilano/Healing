@@ -1,0 +1,86 @@
+@model DoanhNghiepPortal.Models.BusinessRegistrationOffice
+
+@{
+    ViewData["Title"] = "Chi tiết cơ quan đăng ký kinh doanh";
+}
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title mb-0">@ViewData["Title"]</h3>
+                </div>
+                <div class="card-body">
+                    <dl class="row">
+                        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.STT)</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.STT)</dd>
+
+                        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.ProvinceCity)</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.ProvinceCity)</dd>
+
+                        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.DepartmentName)</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.DepartmentName)</dd>
+
+                        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Address)</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.Address)</dd>
+
+                        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.PhoneNumber)</dt>
+                        <dd class="col-sm-9">
+                            @if (!string.IsNullOrEmpty(Model.PhoneNumber))
+                            {
+                                <a href="tel:@Model.PhoneNumber">@Model.PhoneNumber</a>
+                            }
+                            else
+                            {
+                                <span class="text-muted">Chưa có thông tin</span>
+                            }
+                        </dd>
+
+                        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Email)</dt>
+                        <dd class="col-sm-9">
+                            @if (!string.IsNullOrEmpty(Model.Email))
+                            {
+                                <a href="mailto:@Model.Email">@Model.Email</a>
+                            }
+                            else
+                            {
+                                <span class="text-muted">Chưa có thông tin</span>
+                            }
+                        </dd>
+
+                        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Website)</dt>
+                        <dd class="col-sm-9">
+                            @if (!string.IsNullOrEmpty(Model.Website))
+                            {
+                                <a href="@Model.Website" target="_blank">@Model.Website</a>
+                            }
+                            else
+                            {
+                                <span class="text-muted">Chưa có thông tin</span>
+                            }
+                        </dd>
+
+                        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.CreatedDate)</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.CreatedDate)</dd>
+
+                        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.UpdatedDate)</dt>
+                        <dd class="col-sm-9">@Html.DisplayFor(model => model.UpdatedDate)</dd>
+                    </dl>
+
+                    <div class="text-center mt-4">
+                        <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning me-2">
+                            <i class="fas fa-edit"></i> Sửa
+                        </a>
+                        <a asp-action="Index" class="btn btn-secondary me-2">
+                            <i class="fas fa-arrow-left"></i> Quay lại
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger">
+                            <i class="fas fa-trash"></i> Xóa
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> 

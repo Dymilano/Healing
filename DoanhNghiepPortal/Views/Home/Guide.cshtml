@@ -2,102 +2,337 @@
     ViewData["Title"] = "Hướng Dẫn";
 }
 
-<section class="container py-5">
-    <h1 class="mb-4 text-center display-5 fw-bold text-primary">Hướng Dẫn Đăng Ký Kinh Doanh</h1>
-
-    <!-- Đăng ký doanh nghiệp -->
-    <div class="mb-5">
-        <h2 class="h4 text-dark mb-3">I. Đăng Ký Doanh Nghiệp</h2>
-
-        <div class="mb-3">
-            <h5 class="fw-semibold">Bước 1: Chuẩn bị hồ sơ</h5>
-            <ul class="list-group list-group-flush">
-                <li class="list-group-item">📄 Giấy đề nghị đăng ký doanh nghiệp.</li>
-                <li class="list-group-item">📘 Điều lệ công ty.</li>
-                <li class="list-group-item">👥 Danh sách thành viên/cổ đông sáng lập.</li>
-                <li class="list-group-item">🆔 CMND/CCCD/Hộ chiếu (scan) của người đại diện pháp luật và các thành viên/cổ đông.</li>
-            </ul>
-        </div>
-
-        <div class="mb-3">
-            <h5 class="fw-semibold">Bước 2: Tạo tài khoản và đăng nhập</h5>
-            <p>Truy cập <a href="/Account/Register" class="link-primary">Đăng ký tài khoản</a>, xác thực email và đăng nhập hệ thống.</p>
-        </div>
-
-        <div class="mb-3">
-            <h5 class="fw-semibold">Bước 3: Chọn hình thức đăng ký</h5>
-            <p>Chọn mục <span class="fw-bold">Đăng ký Doanh nghiệp</span> và loại hình phù hợp (TNHH, Cổ phần,...).</p>
-        </div>
-
-        <div class="mb-3">
-            <h5 class="fw-semibold">Bước 4: Điền thông tin đăng ký</h5>
-            <p>Điền đầy đủ thông tin doanh nghiệp, ngành nghề và đính kèm tài liệu yêu cầu.</p>
-        </div>
-
-        <div class="mb-3">
-            <h5 class="fw-semibold">Bước 5: Nộp hồ sơ</h5>
-            <p>Kiểm tra kỹ nội dung và nhấn <strong class="text-danger">Gửi hồ sơ</strong>.</p>
-        </div>
-
-        <div class="mb-3">
-            <h5 class="fw-semibold">Bước 6: Theo dõi và nhận kết quả</h5>
-            <p>Theo dõi trong mục <strong>Quản lý hồ sơ</strong>. Kết quả sẽ gửi về email hoặc hiển thị trên hệ thống.</p>
+<div class="main-banner wow fadeIn" id="top" data-wow-duration="1s" data-wow-delay="0.5s">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="row">
+                    <div class="col-lg-6 align-self-center">
+                        <div class="left-content header-text wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
+                            <h6>Hướng dẫn chi tiết</h6>
+                            <h2>Quy trình <em>Đăng ký kinh doanh</em> <span>Trực tuyến</span></h2>
+                            <p>Hướng dẫn chi tiết từng bước để đăng ký doanh nghiệp và kinh doanh cá nhân một cách dễ dàng và nhanh chóng.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
+                            <img src="~/assets/images/banner-right-image.png" alt="Guide">
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
+</div>
 
-    <!-- Đăng ký cá nhân -->
-    <div class="mb-5">
-        <h2 class="h4 text-dark mb-3">II. Đăng Ký Kinh Doanh Cá Nhân</h2>
+<div class="container" style="margin-top: 50px; padding-top: 30px;">
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">Trang chủ</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Hướng dẫn</li>
+        </ol>
+    </nav>
 
-        <div class="mb-3">
-            <h5 class="fw-semibold">Bước 1: Chuẩn bị hồ sơ</h5>
-            <ul class="list-group list-group-flush">
-                <li class="list-group-item">📄 Giấy đề nghị đăng ký hộ kinh doanh.</li>
-                <li class="list-group-item">🆔 CMND/CCCD của chủ hộ kinh doanh.</li>
-                <li class="list-group-item">📃 Hợp đồng thuê/mượn địa điểm (nếu có).</li>
-            </ul>
+    <div class="row">
+        <div class="col-lg-9">
+            <!-- Đăng ký doanh nghiệp -->
+            <div class="card shadow-lg border-0 mb-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="border-radius: 20px; overflow: hidden;">
+                <div class="card-header bg-primary text-white py-3">
+                    <h5 class="mb-0 fw-bold">
+                        <i class="fas fa-building me-2"></i>I. Đăng Ký Doanh Nghiệp
+                    </h5>
+                </div>
+                <div class="card-body p-4">
+                    <div class="step-item mb-4">
+                        <div class="step-header">
+                            <div class="step-number">1</div>
+                            <h6 class="fw-bold mb-2">Chuẩn bị hồ sơ</h6>
+                        </div>
+                        <div class="step-content">
+                            <ul class="list-unstyled">
+                                <li class="mb-2"><i class="fas fa-file-alt text-primary me-2"></i>Giấy đề nghị đăng ký doanh nghiệp</li>
+                                <li class="mb-2"><i class="fas fa-book text-success me-2"></i>Điều lệ công ty</li>
+                                <li class="mb-2"><i class="fas fa-users text-info me-2"></i>Danh sách thành viên/cổ đông sáng lập</li>
+                                <li class="mb-2"><i class="fas fa-id-card text-warning me-2"></i>CMND/CCCD/Hộ chiếu (scan) của người đại diện pháp luật</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="step-item mb-4">
+                        <div class="step-header">
+                            <div class="step-number">2</div>
+                            <h6 class="fw-bold mb-2">Tạo tài khoản và đăng nhập</h6>
+                        </div>
+                        <div class="step-content">
+                            <p>Truy cập <a href="/Account/Register" class="link-primary fw-bold">Đăng ký tài khoản</a>, xác thực email và đăng nhập hệ thống.</p>
+                        </div>
+                    </div>
+
+                    <div class="step-item mb-4">
+                        <div class="step-header">
+                            <div class="step-number">3</div>
+                            <h6 class="fw-bold mb-2">Chọn hình thức đăng ký</h6>
+                        </div>
+                        <div class="step-content">
+                            <p>Chọn mục <span class="fw-bold text-primary">Đăng ký Doanh nghiệp</span> và loại hình phù hợp (TNHH, Cổ phần,...).</p>
+                        </div>
+                    </div>
+
+                    <div class="step-item mb-4">
+                        <div class="step-header">
+                            <div class="step-number">4</div>
+                            <h6 class="fw-bold mb-2">Điền thông tin đăng ký</h6>
+                        </div>
+                        <div class="step-content">
+                            <p>Điền đầy đủ thông tin doanh nghiệp, ngành nghề và đính kèm tài liệu yêu cầu.</p>
+                        </div>
+                    </div>
+
+                    <div class="step-item mb-4">
+                        <div class="step-header">
+                            <div class="step-number">5</div>
+                            <h6 class="fw-bold mb-2">Nộp hồ sơ</h6>
+                        </div>
+                        <div class="step-content">
+                            <p>Kiểm tra kỹ nội dung và nhấn <strong class="text-danger">Gửi hồ sơ</strong>.</p>
+                        </div>
+                    </div>
+
+                    <div class="step-item">
+                        <div class="step-header">
+                            <div class="step-number">6</div>
+                            <h6 class="fw-bold mb-2">Theo dõi và nhận kết quả</h6>
+                        </div>
+                        <div class="step-content">
+                            <p>Theo dõi trong mục <strong>Quản lý hồ sơ</strong>. Kết quả sẽ gửi về email hoặc hiển thị trên hệ thống.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Đăng ký cá nhân -->
+            <div class="card shadow-lg border-0 mb-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" style="border-radius: 20px; overflow: hidden;">
+                <div class="card-header bg-success text-white py-3">
+                    <h5 class="mb-0 fw-bold">
+                        <i class="fas fa-user me-2"></i>II. Đăng Ký Kinh Doanh Cá Nhân
+                    </h5>
+                </div>
+                <div class="card-body p-4">
+                    <div class="step-item mb-4">
+                        <div class="step-header">
+                            <div class="step-number">1</div>
+                            <h6 class="fw-bold mb-2">Chuẩn bị hồ sơ</h6>
+                        </div>
+                        <div class="step-content">
+                            <ul class="list-unstyled">
+                                <li class="mb-2"><i class="fas fa-file-alt text-primary me-2"></i>Giấy đề nghị đăng ký hộ kinh doanh</li>
+                                <li class="mb-2"><i class="fas fa-id-card text-success me-2"></i>CMND/CCCD của chủ hộ kinh doanh</li>
+                                <li class="mb-2"><i class="fas fa-file-contract text-info me-2"></i>Hợp đồng thuê/mượn địa điểm (nếu có)</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="step-item mb-4">
+                        <div class="step-header">
+                            <div class="step-number">2</div>
+                            <h6 class="fw-bold mb-2">Đăng nhập tài khoản</h6>
+                        </div>
+                        <div class="step-content">
+                            <p>Dùng tài khoản đã đăng ký để đăng nhập hệ thống.</p>
+                        </div>
+                    </div>
+
+                    <div class="step-item mb-4">
+                        <div class="step-header">
+                            <div class="step-number">3</div>
+                            <h6 class="fw-bold mb-2">Vào mục "Đăng ký Kinh doanh cá nhân"</h6>
+                        </div>
+                        <div class="step-content">
+                            <p>Truy cập <a href="/CaNhan/Register" class="link-success fw-bold">Đăng ký Kinh doanh Cá nhân</a>.</p>
+                        </div>
+                    </div>
+
+                    <div class="step-item mb-4">
+                        <div class="step-header">
+                            <div class="step-number">4</div>
+                            <h6 class="fw-bold mb-2">Điền thông tin</h6>
+                        </div>
+                        <div class="step-content">
+                            <p>Nhập thông tin cơ bản, ngành nghề, địa chỉ, và đính kèm tài liệu cần thiết.</p>
+                        </div>
+                    </div>
+
+                    <div class="step-item mb-4">
+                        <div class="step-header">
+                            <div class="step-number">5</div>
+                            <h6 class="fw-bold mb-2">Gửi hồ sơ</h6>
+                        </div>
+                        <div class="step-content">
+                            <p>Xác nhận thông tin và nhấn <strong class="text-danger">Gửi hồ sơ</strong>.</p>
+                        </div>
+                    </div>
+
+                    <div class="step-item">
+                        <div class="step-header">
+                            <div class="step-number">6</div>
+                            <h6 class="fw-bold mb-2">Theo dõi kết quả</h6>
+                        </div>
+                        <div class="step-content">
+                            <p>Theo dõi trạng thái trong mục <strong>Hồ sơ của tôi</strong>.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Lưu ý -->
+            <div class="card shadow-lg border-0 mb-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.7s" style="border-radius: 20px; overflow: hidden;">
+                <div class="card-header bg-warning text-dark py-3">
+                    <h5 class="mb-0 fw-bold">
+                        <i class="fas fa-exclamation-triangle me-2"></i>Lưu ý quan trọng
+                    </h5>
+                </div>
+                <div class="card-body p-4">
+                    <ul class="list-unstyled mb-0">
+                        <li class="mb-2"><i class="fas fa-file-pdf text-danger me-2"></i>Tài liệu tải lên phải là file <strong>PDF</strong>, không vượt quá <strong>10MB</strong></li>
+                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i>Thông tin khai báo cần <strong>chính xác và đầy đủ</strong></li>
+                        <li class="mb-0"><i class="fas fa-phone text-primary me-2"></i>Mọi thắc mắc, liên hệ: <a href="mailto:hotro@dangkydoanhnghiep.vn">hotro@dangkydoanhnghiep.vn</a> hoặc hotline: <strong>1900.1234.56</strong></li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- CTA -->
+            <div class="card shadow-lg border-0 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.9s" style="border-radius: 20px; overflow: hidden;">
+                <div class="card-body p-4 text-center">
+                    <h5 class="fw-bold mb-3">Bạn đã đọc xong hướng dẫn? Bắt đầu đăng ký ngay:</h5>
+                    <div class="row g-3">
+                        <div class="col-md-6">
+                            <a href="/Services/DangKyDoanhNghiep" class="btn btn-primary btn-lg w-100" style="border-radius: 15px;">
+                                <i class="fas fa-building me-2"></i>Đăng ký Doanh nghiệp
+                            </a>
+                        </div>
+                        <div class="col-md-6">
+                            <a href="/Services/DangKyKinhDoanh" class="btn btn-success btn-lg w-100" style="border-radius: 15px;">
+                                <i class="fas fa-user me-2"></i>Đăng ký Cá nhân
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
 
-        <div class="mb-3">
-            <h5 class="fw-semibold">Bước 2: Đăng nhập tài khoản</h5>
-            <p>Dùng tài khoản đã đăng ký để đăng nhập hệ thống.</p>
-        </div>
-
-        <div class="mb-3">
-            <h5 class="fw-semibold">Bước 3: Vào mục “Đăng ký Kinh doanh cá nhân”</h5>
-            <p>Truy cập <a href="/CaNhan/Register" class="link-success">Đăng ký Kinh doanh Cá nhân</a>.</p>
-        </div>
-
-        <div class="mb-3">
-            <h5 class="fw-semibold">Bước 4: Điền thông tin</h5>
-            <p>Nhập thông tin cơ bản, ngành nghề, địa chỉ, và đính kèm tài liệu cần thiết.</p>
-        </div>
-
-        <div class="mb-3">
-            <h5 class="fw-semibold">Bước 5: Gửi hồ sơ</h5>
-            <p>Xác nhận thông tin và nhấn <strong class="text-danger">Gửi hồ sơ</strong>.</p>
-        </div>
-
-        <div class="mb-3">
-            <h5 class="fw-semibold">Bước 6: Theo dõi kết quả</h5>
-            <p>Theo dõi trạng thái trong mục <strong>Hồ sơ của tôi</strong>.</p>
+        <!-- Sidebar -->
+        <div class="col-lg-3">
+            <div class="card shadow-lg border-0 mb-4" style="border-radius: 20px; overflow: hidden;">
+                <div class="card-header bg-primary text-white py-3">
+                    <h6 class="mb-0 fw-bold">
+                        <i class="fas fa-headset me-2"></i>Hỗ trợ
+                    </h6>
+                </div>
+                <div class="card-body">
+                    <p class="text-muted small">Hộp thư hỗ trợ đăng ký doanh nghiệp, dịch vụ thông tin, báo cáo điện tử, thanh toán điện tử</p>
+                    <div class="mb-3">
+                        <div class="d-flex align-items-center mb-2">
+                            <i class="fas fa-envelope text-primary me-2"></i>
+                            <small class="text-break">hotro@dangkykinhdoanh.gov.vn</small>
+                        </div>
+                        <div class="d-flex align-items-center mb-2">
+                            <i class="fas fa-envelope text-primary me-2"></i>
+                            <small class="text-break">dichvuthongtin@dangkykinhdoanh.gov.vn</small>
+                        </div>
+                        <div class="d-flex align-items-center">
+                            <i class="fas fa-envelope text-primary me-2"></i>
+                            <small class="text-break">hotrothanhtoan@dangkykinhdoanh.gov.vn</small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="card shadow-lg border-0" style="border-radius: 20px; overflow: hidden;">
+                <div class="card-header bg-success text-white py-3">
+                    <h6 class="mb-0 fw-bold">
+                        <i class="fas fa-bolt me-2"></i>Truy cập nhanh
+                    </h6>
+                </div>
+                <div class="card-body p-3">
+                    <a href="/Home/Guide" class="btn btn-outline-primary w-100 mb-2" style="border-radius: 15px;">
+                        <i class="fas fa-info-circle me-2"></i>DỊCH VỤ THÔNG TIN
+                    </a>
+                    <a href="/Services/DangKyDoanhNghiep" class="btn btn-outline-success w-100" style="border-radius: 15px;">
+                        <i class="fas fa-laptop me-2"></i>ĐĂNG KÝ QUA MẠNG
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
+</div>
 
-    <!-- Lưu ý -->
-    <div class="alert alert-warning shadow-sm">
-        <h5 class="alert-heading">📌 Lưu ý:</h5>
-        <ul class="mb-0">
-            <li>🔹 Tài liệu tải lên phải là file <strong>PDF</strong>, không vượt quá <strong>10MB</strong>.</li>
-            <li>🔹 Thông tin khai báo cần <strong>chính xác và đầy đủ</strong>.</li>
-            <li>🔹 Mọi thắc mắc, liên hệ: <a href="">hotro@dangkydoanhnghiep.vn</a> hoặc hotline: <strong>1900.1234.56</strong>.</li>
-        </ul>
-    </div>
-
-    <!-- CTA -->
-    <div class="text-center mt-5">
-        <p class="lead fw-bold mb-3">Bạn đã đọc xong hướng dẫn? Bắt đầu đăng ký ngay:</p>
-        <a href="/DoanhNghiep/Register" class="btn btn-primary btn-lg mx-2">🏢 Đăng ký Doanh nghiệp</a>
-        <a href="/CaNhan/Register" class="btn btn-success btn-lg mx-2">👤 Đăng ký Cá nhân</a>
-    </div>
-</section>
+<style>
+    .breadcrumb {
+        background: none;
+        padding: 0;
+        margin-bottom: 1rem;
+    }
+    
+    .step-item {
+        position: relative;
+        padding-left: 60px;
+    }
+    
+    .step-header {
+        display: flex;
+        align-items: center;
+        margin-bottom: 1rem;
+    }
+    
+    .step-number {
+        width: 40px;
+        height: 40px;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        color: white;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: bold;
+        font-size: 1.1rem;
+        margin-right: 1rem;
+        flex-shrink: 0;
+    }
+    
+    .step-content {
+        padding-left: 50px;
+    }
+    
+    .card {
+        transition: all 0.3s ease;
+    }
+    
+    .card:hover {
+        transform: translateY(-5px);
+    }
+    
+    .text-primary {
+        color: #667eea !important;
+    }
+    
+    .bg-primary {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+    }
+    
+    .bg-success {
+        background: linear-gradient(135deg, #28a745 0%, #20c997 100%) !important;
+    }
+    
+    .bg-warning {
+        background: linear-gradient(135deg, #ffc107 0%, #fd7e14 100%) !important;
+    }
+    
+    .btn {
+        transition: all 0.3s ease;
+    }
+    
+    .btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+    }
+</style>

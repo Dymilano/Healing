@@ -1,7 +1,12 @@
+using DoanhNghiepPortal.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Add Business Registration Office Service
+builder.Services.AddScoped<IBusinessRegistrationOfficeService, BusinessRegistrationOfficeService>();
 
 var app = builder.Build();
 
